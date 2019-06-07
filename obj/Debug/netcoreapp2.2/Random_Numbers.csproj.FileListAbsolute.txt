@@ -1,0 +1,11 @@
+/Users/Joel/workspace/csharp/Random_Numbers/obj/Debug/netcoreapp2.2/Random_Numbers.csprojAssemblyReference.cache
+/Users/Joel/workspace/csharp/Random_Numbers/obj/Debug/netcoreapp2.2/Random_Numbers.csproj.CoreCompileInputs.cache
+/Users/Joel/workspace/csharp/Random_Numbers/obj/Debug/netcoreapp2.2/Random_Numbers.AssemblyInfoInputs.cache
+/Users/Joel/workspace/csharp/Random_Numbers/obj/Debug/netcoreapp2.2/Random_Numbers.AssemblyInfo.cs
+/Users/Joel/workspace/csharp/Random_Numbers/bin/Debug/netcoreapp2.2/Random_Numbers.deps.json
+/Users/Joel/workspace/csharp/Random_Numbers/bin/Debug/netcoreapp2.2/Random_Numbers.runtimeconfig.json
+/Users/Joel/workspace/csharp/Random_Numbers/bin/Debug/netcoreapp2.2/Random_Numbers.runtimeconfig.dev.json
+/Users/Joel/workspace/csharp/Random_Numbers/bin/Debug/netcoreapp2.2/Random_Numbers.dll
+/Users/Joel/workspace/csharp/Random_Numbers/bin/Debug/netcoreapp2.2/Random_Numbers.pdb
+/Users/Joel/workspace/csharp/Random_Numbers/obj/Debug/netcoreapp2.2/Random_Numbers.dll
+/Users/Joel/workspace/csharp/Random_Numbers/obj/Debug/netcoreapp2.2/Random_Numbers.pdb
